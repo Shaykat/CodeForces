@@ -1,0 +1,10 @@
+C:\Users\Shaykat\Google Drive\code blocks\CodeForce\bal\bal\bin\Debug\bal.exe.config
+C:\Users\Shaykat\Google Drive\code blocks\CodeForce\bal\bal\bin\Debug\Database1.sdf
+C:\Users\Shaykat\Google Drive\code blocks\CodeForce\bal\bal\bin\Debug\bal.exe
+C:\Users\Shaykat\Google Drive\code blocks\CodeForce\bal\bal\bin\Debug\bal.pdb
+C:\Users\Shaykat\Google Drive\code blocks\CodeForce\bal\bal\obj\Debug\bal.csprojResolveAssemblyReference.cache
+C:\Users\Shaykat\Google Drive\code blocks\CodeForce\bal\bal\obj\Debug\bal.Form1.resources
+C:\Users\Shaykat\Google Drive\code blocks\CodeForce\bal\bal\obj\Debug\bal.Properties.Resources.resources
+C:\Users\Shaykat\Google Drive\code blocks\CodeForce\bal\bal\obj\Debug\bal.csproj.GenerateResource.Cache
+C:\Users\Shaykat\Google Drive\code blocks\CodeForce\bal\bal\obj\Debug\bal.exe
+C:\Users\Shaykat\Google Drive\code blocks\CodeForce\bal\bal\obj\Debug\bal.pdb

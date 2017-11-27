@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+#define s 100
+#define ll long long
+#define mx 0
+#define mn 9223372036854775808
+#define pb push_back
+int t[s];
