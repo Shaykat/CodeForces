@@ -1,0 +1,53 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define s 100010
+vector< pair<int,int> >B;
+vector< pair<int,int> >S;
+int n,d;
+int e[s],f[s],g[s],h[s];
+bool compare1(const pair<int,int>&i,const pair<int,int>&j){
+    return i.first < j.first;
+}
+bool compare2(const pair<int,int>&i,const pair<int,int>&j){
+    return i.first > j.first;
+}
+int main(){
+    char a;
+    int b,c,p,q;
+    cin >> n;
+    for(int i = 0; i < n; i++){
+        cin >> a;
+        cin.ignore();
+        cin >> b >> c;
+        if(a == 'B'){
+            B.push_back(make_pair(b,c));
+        }
+        else if(a == 'S'){
+            S.push_back(make_pair(b,c));
+        }
+    }
+    /*sort(B.begin(),B.end(),compare2);
+    sort(S.begin(),S.end(),compare1);
+    int k = 0;
+    for(int i = 0; i < B.size(); i++){
+        p = B[i].first;
+        q = B[i].second;
+        while(p == B[i].first){
+            e[k] = p;
+            f[k++] += q;
+        }
+    }
+    k = 0;
+    for(int i = 0; i < S.size(); i++){
+        p = S[i].first;
+        q = S[i].second;
+        while(p == S[i].first){
+            g[k] = p;
+            h[k++] += q;
+        }
+    }*/
+
+    for(int i = 0; i < S.size(); i++){
+        cout << S[i].first << endl;
+    }
+}
